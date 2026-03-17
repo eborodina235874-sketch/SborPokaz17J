@@ -1,0 +1,3 @@
+umaxbot
+pandas
+openpyxl
