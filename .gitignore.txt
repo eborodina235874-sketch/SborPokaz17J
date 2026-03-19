@@ -1,6 +1,3 @@
-__pycache__/
-*.pyc
-.env
-.vscode/
-.idea/
-*.xlsx
+umaxbot
+pandas
+openpyxl
