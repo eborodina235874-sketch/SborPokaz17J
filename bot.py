@@ -1,8 +1,8 @@
 import os
 import pandas as pd
 from datetime import datetime
-from umaxbot import Bot, Dispatcher, types
-from umaxbot.contrib.fsm import State, StatesGroup, FSMContext
+from maxapi import Bot, Dispatcher, types
+from maxapi.contrib.fsm import State, StatesGroup, FSMContext
 
 TOKEN = "f9LHodD0cOLppXCKzWiAHSfTq-lgD881ak2ktA96D8sGuWkLjwQpwbxsIXfN5vIT77T04dOmohcoqynHQSUR"
 EXCEL_FILE = "pokazaniya.xlsx"
