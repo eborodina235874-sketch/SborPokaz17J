@@ -1,1 +1,3 @@
-
+pyromax
+pandas
+openpyxl
